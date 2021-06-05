@@ -1,0 +1,1 @@
+{"sequenceness_classifier": {"classifier_window": [-5, 6], "classifier_center_idx": [9, 15, 37], "param_optimisation_n_iter": 100, "n_pca_components": [30, 60], "param_optimisation_cv": 5, "classifier_regularisation": "l1", "classifier_multiclass": "ovr", "confusion_matrix_cv": 5}, "sequenceness": {"window_width": 40, "max_lag": 20}}

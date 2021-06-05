@@ -1,0 +1,1 @@
+{"preprocessing": {"use_eye_tracking": true, "use_maxwell": true, "filter_low": 0.5, "filter_high": null, "downsample":400}, "temporal_generalisation": {"pca_n_components": 50, "classifier_regularisation": "l1", "param_optimisation_cv": 3, "param_optimisation_n_iter": 100}}
